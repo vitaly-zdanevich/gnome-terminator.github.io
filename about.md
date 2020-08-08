@@ -11,4 +11,5 @@ This is a fork of the original Terminator. In short, the maintainers seem to hav
 - [Gnome Terminator Organization](https://github.com/gnome-terminator).
 - [Repository for Terminator](https://github.com/gnome-terminator/terminator).
 - [Repository for this website](https://github.com/gnome-terminator/gnome-terminator.github.io).
+- [Wikipedia page](https://en.wikipedia.org/wiki/GNOME_Terminator).
 
